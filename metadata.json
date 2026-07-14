@@ -1,0 +1,10 @@
+{
+  "name": "Remix: FRIDAY Personal Assistant",
+  "description": "A sophisticated, fully-inspired AI personal assistant mimicking Tony Stark\u0027s FRIDAY with voice control, diagnostic overlays, secure local encrypted storage, biometric verification, and cross-device synchronization.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
